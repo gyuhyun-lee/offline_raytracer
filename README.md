@@ -15,10 +15,10 @@ Simple offline raytracer with full BSDF, written in C++ & Objective-C(for MacOS 
 
 # Showcase
 Showcase #1
-![Sample 1](showcase/1.hdr)
+![Sample 1](showcase/1.png)
 
 Showcase #2(2022/11/16)
-![Sample 2](showcase/2.hdr)
+![Sample 2](showcase/2.png)
 
 
 

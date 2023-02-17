@@ -18,7 +18,6 @@
 *.c.swo
 
 *.spv
-*.hdr
 
 /external
 /misc
@@ -40,5 +39,4 @@ Thumbs.db
 *.air
 *.metallib
 *.metallibsym
-code/\
-\
+
